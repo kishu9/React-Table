@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ram Kapoor",
+      "address": "3 sharma road",
+      "phoneNumber": "912-962-7516",
+      "email": "ram.kap@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Abhi Sahu",
+      "address": "4 Tarun town",
+      "phoneNumber": "779-211-7516",
+      "email": "abhi@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony meshram",
+      "address": "11 Talum road",
+      "phoneNumber": "788-962-7516",
+      "email": "tony123@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jonny Patel",
+      "address": "333 Milan Road",
+      "phoneNumber": "778-962-1230",
+      "email": "jpatel@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Ramu Sahu",
+      "address": "99 blue garden acres",
+      "phoneNumber": "731-962-7516",
+      "email": "ramusahu123@email.com"
+    }
+  ]
